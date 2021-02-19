@@ -1,0 +1,7 @@
+{
+    "php.executablePath": "C:\\ncceapp\\php",
+    "php.validate.executablePath": "C:\\ncceapp\\php\\php.exe",
+    "python.pythonPath": "E:\\winPython\\python.exe",
+    "python.linting.pylintEnabled": true,
+    "python.linting.enabled": true
+}
