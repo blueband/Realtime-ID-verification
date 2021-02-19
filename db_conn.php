@@ -1,6 +1,6 @@
 <?php
 $host="localhost";
-$dbase="zainab";
-$user="root";
-$pass="Alquds1";
+$dbase="ppkkkkjnnn";
+$user="iijggg";
+$pass="iuuuuuuhh";
 ?>
